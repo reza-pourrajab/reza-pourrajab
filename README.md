@@ -1,5 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Reza Pourrajab</h1>
-<h3 align="center">💻 Front-end Developer | 🚀 Self-taught | 🇮🇷 Mashhad, Iran</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=3DDC84&center=true&vCenter=true&width=500&lines=Hi,%20I'm%20Reza%20Pourrajab;Coffee%20%2B%20Code%20=%20Happiness%20☕💻" />
+</p>
+
+---
+
+### ✨ About Me
+
+Junior front-end developer skilled in HTML and CSS, currently learning JavaScript.  
+Passionate about building beautiful web interfaces.
 
 ---
 
@@ -17,12 +25,6 @@ const devProfile = {
 
 ---
 
-### ✨ About Me
-
-I'm a passionate front-end developer who recently started the journey into coding. I love building beautiful web interfaces and learning new tools and technologies every day. I'm curious, committed, and a strong believer in teamwork.
-
----
-
 ### 🚀 Technologies & Tools
 
 <p align="left">
@@ -37,17 +39,13 @@ I'm a passionate front-end developer who recently started the journey into codin
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reza-pourrajab&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reza-pourrajab&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
+</p> -->
 <p align="center">
-  <img src="https://github.com/reza-pourrajab/reza-pourrajab/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reza-pourrajab&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reza-pourrajab&theme=radical" />
 </p>
 
 ---
@@ -55,15 +53,18 @@ I'm a passionate front-end developer who recently started the journey into codin
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://instagram.com/reza_pourrajab" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://t.me/reza_pourrajab" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/RezaPourrajab" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <a href="https://instagram.com/reza_pourrajab" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+<a href="https://twitter.com/RezaPourrajab" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:pourrajabr@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
 ---
@@ -74,8 +75,14 @@ I'm a passionate front-end developer who recently started the journey into codin
 
 ---
 
+### 🙏 Thanks for reading
+
+Thanks for stopping by and taking the time to read my profile.  
+I appreciate your interest — feel free to connect or say hi!  
+Happy coding and good luck with your journey 💻✨
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Front-end+Developer+in+Progress;Always+Learning+%F0%9F%93%9A;Passionate+About+Web+UI+%F0%9F%8C%90"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="180" />
 </p>
 
 ```
