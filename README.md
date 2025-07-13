@@ -6,12 +6,12 @@
 ```js
 // Personal Info Object
 const devProfile = {
-  fullName: "Reza Pourrajab",
-  birthYear: 1998,
-  location: "Mashhad, Iran",
-  skills: ["HTML", "CSS", "JavaScript", "Git", "VS Code"],
-  goal: "To become a professional front-end developer and join a great team.",
-  hobbies: ["Sports", "Reading", "Learning new things"],
+	fullName: "Reza Pourrajab",
+	birthYear: 1998,
+	location: "Mashhad, Iran",
+	skills: ["HTML", "CSS", "JavaScript", "Git", "VS Code"],
+	goal: "To become a professional front-end developer and join a great team.",
+	hobbies: ["Sports", "Reading", "Learning new things"],
 };
 ```
 
@@ -55,13 +55,13 @@ I'm a passionate front-end developer who recently started the journey into codin
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://instagram.com/your_username" target="_blank">
+  <a href="https://instagram.com/reza_pourrajab" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://t.me/reza_pourrajab" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your_username" target="_blank">
+  <a href="https://twitter.com/RezaPourrajab" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -69,6 +69,7 @@ I'm a passionate front-end developer who recently started the journey into codin
 ---
 
 ### 💡 Quote
+
 > "Every expert was once a beginner. Keep learning, keep building."
 
 ---
@@ -76,5 +77,7 @@ I'm a passionate front-end developer who recently started the journey into codin
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Front-end+Developer+in+Progress;Always+Learning+%F0%9F%93%9A;Passionate+About+Web+UI+%F0%9F%8C%90"/>
 </p>
+
+```
 
 ```
