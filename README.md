@@ -93,16 +93,16 @@ const devProfile = {
 
 <p align="center">
   <a href="https://t.me/reza_pourrajab" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-telegram-96.png?raw=true" />
   </a>
     <a href="https://instagram.com/reza_pourrajab" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-instagram-logo-96.png?raw=true" />
   </a>
 <a href="https://twitter.com/RezaPourrajab" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-twitter-96.png?raw=true" />
 </a>
 <a href="mailto:pourrajabr@gmail.com?subject=Hello%20Reza&body=I%20just%20checked%20your%20GitHub%20profile%20and%20wanted%20to%20connect!">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-gmail-96.png?raw=true" alt="Email" />
 </a>
 
 </p>
