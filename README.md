@@ -1,18 +1,25 @@
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=3DDC84&center=true&vCenter=true&width=500&lines=Hi,%20I'm%20Reza%20Pourrajab;Coffee%20%2B%20Code%20=%20Happiness%20☕💻" />
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ### ✨ About Me
 
 Junior front-end developer skilled in HTML and CSS, currently learning JavaScript.  
 Passionate about building beautiful web interfaces.
 
+<br>
+
 ---
 
 ```js
-// Personal Info Object
 const devProfile = {
 	fullName: "Reza Pourrajab",
 	birthYear: 1998,
@@ -23,7 +30,11 @@ const devProfile = {
 };
 ```
 
+<br>
+
 ---
+
+<br>
 
 ### 🚀 Technologies & Tools
 
@@ -35,7 +46,11 @@ const devProfile = {
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ### 📈 GitHub Stats
 
@@ -48,7 +63,11 @@ const devProfile = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reza-pourrajab&theme=radical" />
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ### 📫 Connect with me
 
@@ -67,13 +86,21 @@ const devProfile = {
 </a>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ### 💡 Quote
 
 > "Every expert was once a beginner. Keep learning, keep building."
 
+<br>
+
 ---
+
+<br>
 
 ### 🙏 Thanks for reading
 
