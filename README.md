@@ -50,7 +50,7 @@ const devProfile = {
 
 ---
 
-<br>
+<div align="center">
 
 ### 📈 GitHub Stats
 
@@ -63,11 +63,15 @@ const devProfile = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reza-pourrajab&theme=radical" />
 </p>
 
+<img align="center"  src="https://github-profile-trophy.vercel.app/?username=reza-pourrajab&theme=radical" />
+
 <br>
 
 ---
 
 <br>
+
+</div>
 
 ### 📫 Connect with me
 
