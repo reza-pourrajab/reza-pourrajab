@@ -48,14 +48,31 @@ const devProfile = {
 
 <br>
 
+<h4 align="left">
+  🌐 Web Development
+</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26&fontSize=20&padding=10" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6&fontSize=20&padding=10" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E&fontSize=20&padding=10" alt="JavaScript"/>
+</p>
+<br>
 
+<h4 align="left">
+  ⚙️ Version Control & Documentation
+</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=F05032&fontSize=20&padding=10" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=ffffff&fontSize=20&padding=10" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown&logoColor=ffffff&fontSize=20&padding=10" alt="Markdown"/>
+</p>
+<br>
+
+<h4 align="left">
+  🔧 Code Editor
+</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&fontSize=20&padding=10" alt="VS Code"/>
 </p>
 
 <br>
@@ -93,16 +110,16 @@ const devProfile = {
 
 <p align="center">
   <a href="https://t.me/reza_pourrajab" target="_blank">
-    <img src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-telegram-96.png?raw=true" />
+    <img width="64" height="64" padding-right="5" src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-telegram-96.png?raw=true" />
   </a>
     <a href="https://instagram.com/reza_pourrajab" target="_blank">
-    <img src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-instagram-logo-96.png?raw=true" />
+    <img width="64" height="64" padding-right="5" src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-instagram-logo-96.png?raw=true" />
   </a>
 <a href="https://twitter.com/RezaPourrajab" target="_blank">
-  <img src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-twitter-96.png?raw=true" />
+  <img width="64" height="64" padding-right="5" src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-twitter-96.png?raw=true" />
 </a>
 <a href="mailto:pourrajabr@gmail.com?subject=Hello%20Reza&body=I%20just%20checked%20your%20GitHub%20profile%20and%20wanted%20to%20connect!">
-  <img src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-gmail-96.png?raw=true" alt="Email" />
+  <img width="64" height="64" src="https://github.com/reza-pourrajab/reza-pourrajab/blob/main/icons8-gmail-96.png?raw=true" alt="Email" />
 </a>
 
 </p>
